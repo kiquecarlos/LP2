@@ -1,8 +1,0 @@
-C:\Users\kique\Source\Repos\PCilinderCalc\PCilinderCalc\bin\Debug\PCilinderCalc.exe
-C:\Users\kique\Source\Repos\PCilinderCalc\PCilinderCalc\bin\Debug\PCilinderCalc.pdb
-C:\Users\kique\Source\Repos\PCilinderCalc\PCilinderCalc\obj\Debug\PCilinderCalc.csprojAssemblyReference.cache
-C:\Users\kique\Source\Repos\PCilinderCalc\PCilinderCalc\obj\Debug\PCilinderCalc.Form1.resources
-C:\Users\kique\Source\Repos\PCilinderCalc\PCilinderCalc\obj\Debug\PCilinderCalc.Properties.Resources.resources
-C:\Users\kique\Source\Repos\PCilinderCalc\PCilinderCalc\obj\Debug\PCilinderCalc.csproj.GenerateResource.cache
-C:\Users\kique\Source\Repos\PCilinderCalc\PCilinderCalc\obj\Debug\PCilinderCalc.exe
-C:\Users\kique\Source\Repos\PCilinderCalc\PCilinderCalc\obj\Debug\PCilinderCalc.pdb
