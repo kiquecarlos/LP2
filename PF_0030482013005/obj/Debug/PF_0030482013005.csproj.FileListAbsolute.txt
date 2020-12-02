@@ -1,0 +1,12 @@
+C:\Users\C_hol\OneDrive\FATEC\2 SEM\LP2\GIT\LP2\PF_0030482013005\obj\Debug\PF_0030482013005.csprojAssemblyReference.cache
+C:\Users\C_hol\OneDrive\FATEC\2 SEM\LP2\GIT\LP2\PF_0030482013005\bin\Debug\PF_0030482013005.exe.config
+C:\Users\C_hol\OneDrive\FATEC\2 SEM\LP2\GIT\LP2\PF_0030482013005\bin\Debug\PF_0030482013005.exe
+C:\Users\C_hol\OneDrive\FATEC\2 SEM\LP2\GIT\LP2\PF_0030482013005\bin\Debug\PF_0030482013005.pdb
+C:\Users\C_hol\OneDrive\FATEC\2 SEM\LP2\GIT\LP2\PF_0030482013005\obj\Debug\PF_0030482013005.AboutBox1.resources
+C:\Users\C_hol\OneDrive\FATEC\2 SEM\LP2\GIT\LP2\PF_0030482013005\obj\Debug\PF_0030482013005.frmPrincipal.resources
+C:\Users\C_hol\OneDrive\FATEC\2 SEM\LP2\GIT\LP2\PF_0030482013005\obj\Debug\PF_0030482013005.frmCidade.resources
+C:\Users\C_hol\OneDrive\FATEC\2 SEM\LP2\GIT\LP2\PF_0030482013005\obj\Debug\PF_0030482013005.Properties.Resources.resources
+C:\Users\C_hol\OneDrive\FATEC\2 SEM\LP2\GIT\LP2\PF_0030482013005\obj\Debug\PF_0030482013005.csproj.GenerateResource.cache
+C:\Users\C_hol\OneDrive\FATEC\2 SEM\LP2\GIT\LP2\PF_0030482013005\obj\Debug\PF_0030482013005.csproj.CoreCompileInputs.cache
+C:\Users\C_hol\OneDrive\FATEC\2 SEM\LP2\GIT\LP2\PF_0030482013005\obj\Debug\PF_0030482013005.exe
+C:\Users\C_hol\OneDrive\FATEC\2 SEM\LP2\GIT\LP2\PF_0030482013005\obj\Debug\PF_0030482013005.pdb
